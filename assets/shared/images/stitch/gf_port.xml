@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf_port.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF STUMPED0000" x="0" y="0" width="339" height="355" frameX="0" frameY="0" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0001" x="0" y="0" width="339" height="355" frameX="0" frameY="0" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0002" x="339" y="0" width="341" height="355" frameX="-19" frameY="0" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0003" x="339" y="0" width="341" height="355" frameX="-19" frameY="0" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0004" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0005" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0006" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0007" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0008" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0009" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0010" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0011" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0012" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0013" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0014" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0015" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0016" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0017" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0018" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0019" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0020" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF STUMPED0021" x="680" y="0" width="336" height="354" frameX="-17" frameY="-1" frameWidth="360" frameHeight="355"/>
+	<SubTexture name="GF TALK0000" x="1016" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0001" x="1359" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0002" x="1702" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0003" x="0" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0004" x="0" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0005" x="343" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0006" x="343" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0007" x="1016" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0008" x="1359" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0009" x="1702" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0010" x="0" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0011" x="0" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0012" x="343" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0013" x="343" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0014" x="1016" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0015" x="1359" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0016" x="1702" y="0" width="343" height="350"/>
+	<SubTexture name="GF TALK0017" x="0" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0018" x="0" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0019" x="343" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0020" x="343" y="355" width="343" height="350"/>
+	<SubTexture name="GF TALK0021" x="1016" y="0" width="343" height="350"/>
+</TextureAtlas>

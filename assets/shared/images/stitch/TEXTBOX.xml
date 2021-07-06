@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TEXTBOX.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TEXTBOX0000" x="0" y="0" width="1451" height="437"/>
+	<SubTexture name="TEXTBOX ENTER0000" x="0" y="437" width="1451" height="38" frameX="0" frameY="-174" frameWidth="1451" frameHeight="458"/>
+	<SubTexture name="TEXTBOX ENTER0001" x="0" y="475" width="1451" height="116" frameX="0" frameY="-142" frameWidth="1451" frameHeight="458"/>
+	<SubTexture name="TEXTBOX ENTER0002" x="0" y="591" width="1451" height="245" frameX="0" frameY="-88" frameWidth="1451" frameHeight="458"/>
+	<SubTexture name="TEXTBOX ENTER0003" x="0" y="836" width="1451" height="458"/>
+	<SubTexture name="TEXTBOX ENTER0004" x="0" y="0" width="1451" height="437" frameX="0" frameY="-8" frameWidth="1451" frameHeight="437"/>
+	<SubTexture name="TEXTBOX ENTER0005" x="0" y="0" width="1451" height="437" frameX="0" frameY="-8" frameWidth="1451" frameHeight="437"/>
+	<SubTexture name="TEXTBOX ENTER0006" x="0" y="0" width="1451" height="437" frameX="0" frameY="-8" frameWidth="1451" frameHeight="437"/>
+	<SubTexture name="TEXTBOX ENTER0007" x="0" y="0" width="1451" height="437" frameX="0" frameY="-8" frameWidth="1451" frameHeight="437"/>
+</TextureAtlas>
